@@ -23,3 +23,8 @@ k)
 
 e) 
 DMA: DIRECT MEMORY ACCESS
+
+KOMENTAR:
+Ni nama delovalo kot bi moralo.
+Verjetno sva naredila napako med nastavljanjem  ali pa kje drugje.
+Napako sva poizkusila tudi odpraviti s pomočjo yt a nisma uspela.
