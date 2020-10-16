@@ -16,7 +16,7 @@ h)
 asynchronous clock mode divided by 4
 
 j)
-number of conversions: 3
+number of conversions: 0
 
 k)
 čas vzorčenja v mikro sekundah= 6.53mikro sekundah      (92.5+12)/16MHz= 6.53mikro sekund
